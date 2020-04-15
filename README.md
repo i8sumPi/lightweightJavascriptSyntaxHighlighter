@@ -6,6 +6,10 @@ Adding Lightweight Javascript Syntax Highlighter is really easy! Just include
 ```html
 <script src="http://kiraprograms.com/syntaxHighlighter.js"></script>
 ```
+Or, if you want to download the code
+```html
+<script src="filpath to the code"></script>
+```
 
 This makes any `<code>` block highlighted to JavaScript.
 ```html

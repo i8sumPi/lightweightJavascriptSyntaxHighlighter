@@ -1,3 +1,11 @@
+/*
+Lightweight JavaScript Syntax Highlighter
+By: Kira L
+
+You can do whatever you want with the code; I don't need recognition if you include it in a project. You can copy parts of the code or change the code for your own projects however you would like!
+All of the script is in this one file.
+*/
+
 var toR;
 
 //creates a CSS element with all of the colors

@@ -67,7 +67,7 @@ function highlightAll(){
 	}
 }
 
-document.onload = highlightAll; //disable this line if you don't want the code highlighted in the beginning
+window.onload = highlightAll; //disable this line if you don't want the code highlighted in the beginning
 
 
 function highlight(toH){

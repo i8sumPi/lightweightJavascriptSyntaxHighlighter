@@ -8,7 +8,7 @@ Adding Lightweight Javascript Syntax Highlighter is really easy! Just include
 ```
 Or, if you want to download the code
 ```html
-<script src="filpath to the code"></script>
+<script src="file-path to the code"></script>
 ```
 
 This makes any `<code>` block highlighted to JavaScript.
@@ -102,7 +102,7 @@ function highlightAll(){
 	}
 }
 
-document.onload = highlightAll; //disable this line if you don't want the code highlighted in the beginning
+window.onload = highlightAll; //disable this line if you don't want the code highlighted in the beginning
 
 
 function highlight(toH){
